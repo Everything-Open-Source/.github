@@ -1,3 +1,2 @@
-# Everythin Open Source
+# Welcome to Everything Open Source
 
-Welcome
